@@ -64,6 +64,13 @@ body
   padding: 60px 9%;
 }
 
+.list
+{
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 60px 9%;
+}
 /* TODO: Media query for vertical stacking on small screens */
 /* TODO: Dark theme styles */
 /* TODO: Highlight class for list items */
