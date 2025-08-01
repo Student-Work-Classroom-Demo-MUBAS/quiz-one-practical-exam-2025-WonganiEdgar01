@@ -2,8 +2,8 @@
 
 // TODO: Add jQuery code for highlighting list items
 document.querySelectorAll('.list-item').forEach(item => {
-  item.addEventListener('click', () => {
-    
+  item.addEventListener('click', function() => {
+
   }}
 // TODO: Add code for reset button
 
